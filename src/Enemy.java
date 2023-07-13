@@ -1,4 +1,4 @@
-public class Enemy {
+public class Enemy extends Character {
 
     private double healthPoint;
     private int strength, vitality, intelligence;
